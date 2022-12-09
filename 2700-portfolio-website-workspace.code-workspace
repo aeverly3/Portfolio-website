@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../GitHub/2700-portfolio-website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2700-portfolio-website"
+	}
+}
